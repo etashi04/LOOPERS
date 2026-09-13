@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "appid": 1811500,
+  "build": 14841524,
+  "exe_sha256": "c9726ffa200840648318bbee2c0ce451c27874b7fb81333170df811eafa5fefd",
+  "files": [
+    {
+      "path": "files/FONT.PAK",
+      "original": "715dba7001cf2f129f7439552ae97295acef0c4091cee0ad3faa00071e327acd",
+      "current": "fb188f029f0847bfb5e48f0850eab2b41c63606f65bb17ae138df0072f331488",
+      "size": 325769216
+    },
+    {
+      "path": "files/image/MANUAL.PAK",
+      "original": "ee8552c9684028117c18ac3c0a72e3424f12e491ace72c3b9dd6fd776d77fe5a",
+      "current": "5812476bbcc7d10f8aa920c711c10d20f31a5788ccca001b3d1862916f9ce50b",
+      "size": 9138176
+    },
+    {
+      "path": "files/image/OTHCG.PAK",
+      "original": "d575c585699a453d3c1ad5d264d656bc0d562a1af2cfbcd782c331c40dba2993",
+      "current": "72005d21f22f3e05b32d0fb0da89f60e1dadf099798e34726b43e2285a7ca63d",
+      "size": 97517568
+    },
+    {
+      "path": "files/image/PARTS.PAK",
+      "original": "447ea39c4dfae2563e749541945dc40ab1a2443b89f06396975455b4a55152f9",
+      "current": "cd60fa30e9bbcfe14dd517b74c8c9cfbe682e0945523316dbdacbe1d164948cc",
+      "size": 3663872
+    },
+    {
+      "path": "files/image/SYSCG.PAK",
+      "original": "e2058a2e0fc2a9ce500816e46867b8beebf2b73109a21b16be7f03d19e89a2bd",
+      "current": "ad2fec4d8040d6b5e7423ea2c007161a77246224321f6ebdbe3d76a99750f681",
+      "size": 8564736
+    },
+    {
+      "path": "files/movie/1stOP.webm",
+      "original": "4ef7200c5e6f7dd53743597f069a73e9c71e0abedd188855ee030c8059c544cc",
+      "current": "c0a93e9d63e5c55aad7e258d0f23f0e8244be54173f898ffbab67b7bc1afacf5",
+      "size": 205969144
+    },
+    {
+      "path": "files/movie/2ndOP.webm",
+      "original": "80498b931e1af6b957ff85a334470f5afe3ab71e19dce85dbce4b6c062c828e4",
+      "current": "440c95168b5069796ddb1e01fd9f7d77006ac97a46e54f415152470229fc36ca",
+      "size": 104383510
+    },
+    {
+      "path": "files/PARAM.PAK",
+      "original": "31be9d8053a195ae6105245072f4647704cb5bdd6933fd75447f60c3a38b5550",
+      "current": "0d9b2bf8669c54de0aaee55207822655cc73b2ec6e4ee2f652aa543ecf290dd8",
+      "size": 28372
+    },
+    {
+      "path": "files/SCRIPT.PAK",
+      "original": "b3e95c2ddb46a0d8d26651a83c18eb36151285f59559e4fa75105c5737b3cf58",
+      "current": "93c2881f2abd4e381573d9dd993ff51e60f77c6cb53d63d2345feef6f431cd85",
+      "size": 1430284
+    },
+    {
+      "path": "version.dll",
+      "original": null,
+      "current": "261310fb746e0e0359c397aa8eeb43687705b8843989a9d1f6108f57a27abc9f",
+      "size": 182272
+    },
+    {
+      "path": "files/movie/low/1stOP.webm",
+      "original": "432d0f2d5d60af60541fc1981f62df582ea1f2080a3338a42541d85e9fc2e1c5",
+      "current": "631bed6e05d2d042663ec8568f92fdbc09cb5b441de18696b3abb920a87038e5",
+      "size": 56737324
+    },
+    {
+      "path": "files/movie/low/2ndOP.webm",
+      "original": "fe29a0cd2c9eae340a2461e2e5f3f4ab64343bfa6aefd29df1e88ab502ef2e87",
+      "current": "f07862e832935b895de79d1c37082fb0b290cef2b0f8cf98ccdf0dd54ef9c62d",
+      "size": 56284716
+    }
+  ]
+}

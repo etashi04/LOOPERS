@@ -1,0 +1,11 @@
+*.zip
+*.exe
+*.dll
+*.pak
+*.webm
+*.log
+*.png
+*.ico
+input/
+out/
+*.user
