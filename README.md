@@ -4,23 +4,10 @@ Steam판 **LOOPERS** 비공식 한국어 패치 저장소입니다.
 
 현재 정식 배포 버전은 `v1.0.0`이며 Steam 앱 ID `1811500`, 게임 빌드 `14841524`, Windows x64 환경에서 확인했습니다.
 
-## 저장소 구성
-
-- `distribution/`, `build_release.ps1`: 설치기 소스와 빌드 도구
-- `versions/`: 버전별 지원 정보와 원본·패치 해시
-- `VERSION`: 현재 패치 버전
-- `CHANGELOG.md`: 변경 사항
-- `THIRD_PARTY_NOTICES.txt`: 제3자 라이선스
-
-<details>
-<summary>새 버전 배포</summary>
-
-1. `VERSION`, `versions/`의 지원 정보와 해시, `CHANGELOG.md`를 갱신합니다.
-2. 검증된 패치 묶음과 승인된 설치기 이미지 자산을 별도로 준비합니다. 이 저장소에는 게임 데이터가 포함되지 않습니다.
-3. `build_release.ps1`로 내장형 설치 EXE를 빌드합니다.
-4. 자동·수동 ZIP 작성 후 순정 게임에서 설치·복구·실행을 검증하고 체크섬을 생성합니다.
-
-</details>
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/ab11fee5-1337-4925-b9b1-42b9c1227298" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/d855e006-d6fb-4478-b714-86b71d3f1293" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/6263fa42-ffc1-4c7a-86c1-8d4997e28961" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/11b1e509-c22e-4912-9556-b756b7fd8ae5" />
 
 ## 배포본
 
@@ -31,13 +18,6 @@ Steam판 **LOOPERS** 비공식 한국어 패치 저장소입니다.
 - `SHA256SUMS.txt`: 배포 ZIP 무결성 확인용 체크섬
 
 게임을 종료한 상태에서 설치하세요. 자동판에는 설치 EXE와 설치 안내문, 수동판에는 패치파일 폴더와 수동 전용 안내문이 포함되며, 두 배포본 모두 제3자 고지를 제공합니다.
-
-## 확인된 범위
-
-- 본편 대사·메뉴·휴대전화 메시지 이미지 한국어화
-- 한국어 글꼴 적용
-- 대사·화자·확인창·영문 UI 정렬 보정
-- 일반·저화질 오프닝 한국어화
 
 ## 자동 설치
 
@@ -65,5 +45,3 @@ Steam판 **LOOPERS** 비공식 한국어 패치 저장소입니다.
 - 게임 업데이트 후 호환되지 않을 수 있습니다.
 - Windows에서 알 수 없는 앱 경고가 표시될 수 있습니다. 배포 파일은 `SHA256SUMS.txt`로 무결성을 확인할 수 있습니다.
 - 제3자 구성요소의 라이선스는 `THIRD_PARTY_NOTICES.txt`를 확인하세요.
-- 초기 설치기 시험에서 재설치 실패가 1회 있었으나 이후 설치·복구 3회 반복에서는 재현되지 않았습니다. 원인은 미확정입니다.
-- 긴 경로·고배율·강제 중단 복구와 게임 내 저화질 영상 재생은 아직 검증되지 않았습니다. 저화질 영상 파일의 전체 디코딩 및 음성 동일성 검사는 통과했습니다.
